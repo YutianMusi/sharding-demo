@@ -8,7 +8,7 @@ import org.apache.shardingsphere.api.sharding.standard.PreciseShardingValue;
 import java.util.Collection;
 
 /**
- * @author qijun.hou
+ * @author leijie.gao
  * @since 2020-05-27
  */
 public class DefaultPreciseShardingAlgorithm implements PreciseShardingAlgorithm<String> {
